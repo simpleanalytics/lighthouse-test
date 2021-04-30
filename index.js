@@ -7,7 +7,7 @@ const tests = [
   { url: "https://blog.simpleanalytics.com/without-sa-script", results: [] },
 ];
 
-const iterations = 500;
+const iterations = 10;
 
 const run = async () => {
   const chrome = await chromeLauncher.launch({
