@@ -1,0 +1,14 @@
+{
+  "name": "lighthouse-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Simple Analytics",
+  "dependencies": {
+    "lighthouse": "^7.4.0"
+  }
+}
