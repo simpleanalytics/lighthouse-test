@@ -43,7 +43,7 @@ This is the latest test we did run at April 30, 2021:
       94, 94, 96, 94,
       ... 400 more items
     ],
-    average: 93.67
+    average: 93.7
   },
   {
     url: 'https://blog.simpleanalytics.com/with-sa-script',
@@ -59,7 +59,7 @@ This is the latest test we did run at April 30, 2021:
       96, 96, 96, 95,
       ... 400 more items
     ],
-    average: 95.46
+    average: 95.5
   },
   {
     url: 'https://blog.simpleanalytics.com/without-sa-script',
@@ -75,7 +75,7 @@ This is the latest test we did run at April 30, 2021:
       94, 96, 96, 96,
       ... 400 more items
     ],
-    average: 95.49
+    average: 95.5
   }
 ]
 ```
