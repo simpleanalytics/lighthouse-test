@@ -1,6 +1,6 @@
 ### Google Lighthouse Speed
 
-At Simple Analytics we care a lot about the performance impact we have on other websites. As most analytics tools will make your website slower, we actively work on having no impact at all. This is why we created this test prove our impact on your website.
+At [Simple Analytics](https://simpleanalytics.com) we care a lot about the performance impact we have on other websites. As most analytics tools will make your website slower, we actively work on having no impact at all. This is why we created this test prove our impact on your website.
 
 ### Instructions to run this for your own website
 
