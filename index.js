@@ -43,8 +43,8 @@ const run = async () => {
       Math.round(
         (test.results.reduce((total, current) => total + current, 0) /
           test.results.length) *
-          100
-      ) / 100,
+          10
+      ) / 10,
   }));
 
   await chrome.kill();
